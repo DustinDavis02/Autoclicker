@@ -1,16 +1,5 @@
 # AutoClicker :mouse:
 
-## Table of Contents :bookmark_tabs:
-- [Introduction](#introduction)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Introduction :book:
 AutoClicker is a Python-based application that automates mouse clicks :computer_mouse: with a wide range of customizable options. Whether you need to perform repetitive clicks in a game :video_game: or automate a routine task :gear:, AutoClicker has got you covered.
 
