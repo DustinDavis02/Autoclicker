@@ -1,6 +1,6 @@
-# AutoClicker
+# AutoClicker :mouse:
 
-## Table of Contents
+## Table of Contents :bookmark_tabs:
 - [Introduction](#introduction)
 - [Features](#features)
 - [Requirements](#requirements)
@@ -11,45 +11,44 @@
 - [License](#license)
 - [Contact](#contact)
 
-## Introduction
-AutoClicker is a Python-based application that automates mouse clicks with a wide range of customizable options. Whether you need to perform repetitive clicks in a game or automate a routine task, AutoClicker has got you covered.
+## Introduction :book:
+AutoClicker is a Python-based application that automates mouse clicks :computer_mouse: with a wide range of customizable options. Whether you need to perform repetitive clicks in a game :video_game: or automate a routine task :gear:, AutoClicker has got you covered.
 
-## Features
-- **Customizable Click Intervals**: Set custom intervals between automated clicks.
-- **Different Types of Clicks**: Choose from left-click, right-click, middle-click, and double-click.
-- **Sound Notifications**: Get audible notifications for various actions.
-- **Profile Export/Import**: Save and load your session settings with ease.
-- **Hotkey Customization**: Customize hotkeys for different functionalities.
-- **Session Statistics**: Keep track of your clicking sessions.
-- **Multithreaded**: Non-blocking UI for a smooth user experience.
+## Features :sparkles:
+- **Customizable Click Intervals**: :clock10: Set custom intervals between automated clicks.
+- **Different Types of Clicks**: :point_up_2: Choose from left-click, right-click, middle-click, and double-click.
+- **Sound Notifications**: :sound: Get audible notifications for various actions.
+- **Profile Export/Import**: :floppy_disk: Save and load your session settings with ease.
+- **Hotkey Customization**: :keyboard: Customize hotkeys for different functionalities.
+- **Session Statistics**: :bar_chart: Keep track of your clicking sessions.
+- **Multithreaded**: :fast_forward: Non-blocking UI for a smooth user experience.
 
-## Requirements
-- Python 3.x
-- Tkinter
-- Pygame
-- pyautogui
-- keyboard
+## Requirements :clipboard:
+- Python 3.x :snake:
+- Tkinter :art:
+- Pygame :video_game:
+- pyautogui :robot:
+- keyboard :keyboard:
 
-## Installation
-1. Clone this repository.
-2. Navigate to the project directory.
+## Installation :wrench:
+1. Clone this repository :octocat:.
+2. Navigate to the project directory :file_folder:.
 
-## Usage
+## Usage :computer:
 To start the application, navigate to the project directory and run the following command:
-```bash
+\```bash
 python auto_clicker_app_v2.py
-```
+\```
 Follow the on-screen instructions to customize your clicking session.
 
-## Screenshots
+## Screenshots :camera:
 
+## Contributing :handshake:
+If you'd like to contribute to the project, please fork the repository and make changes as you'd like. Pull requests are warmly welcomed :+1:.
 
-## Contributing
-If you'd like to contribute to the project, please fork the repository and make changes as you'd like. Pull requests are warmly welcomed.
-
-## License
+## License :page_facing_up:
 This project is licensed under the MIT License. For more information, please refer to the [LICENSE](LICENSE) file in the repository.
 
-## Contact
+## Contact :e-mail:
 Email: davisdustin501@gmail.com  
 GitHub: [DustinDavis02](https://github.com/DustinDavis02)
