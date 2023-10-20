@@ -39,5 +39,4 @@ If you'd like to contribute to the project, please fork the repository and make 
 This project is licensed under the MIT License. For more information, please refer to the [LICENSE](LICENSE) file in the repository.
 
 ## Contact :e-mail:
-Email: davisdustin501@gmail.com  
 GitHub: [DustinDavis02](https://github.com/DustinDavis02)
