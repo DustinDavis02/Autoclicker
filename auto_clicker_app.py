@@ -1,6 +1,5 @@
 import json
 import random
-import threading
 import time
 from tkinter import Tk, Label, Button, Entry, StringVar, BooleanVar, Checkbutton, Toplevel, Frame
 from tkinter import ttk
