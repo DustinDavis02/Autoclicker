@@ -26,7 +26,7 @@ AutoClicker is a Python-based application that automates mouse clicks :computer_
 ## Usage :computer:
 To start the application, navigate to the project directory and run the following command:
 \```bash
-python auto_clicker_app_v2.py
+python auto_clicker_app.py
 \```
 Follow the on-screen instructions to customize your clicking session.
 
